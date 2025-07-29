@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edgar | Data Science Graduate
+# 👋 Hi, I'm Edgar | Data Science UnderGraduate
 
 🎓 **Close to completing** my Data Science Bootcamp at **TripleTen**  
 🔍 Passionate about **machine learning, exploratory data analysis, data visualization, and turning raw data into actionable insights**  
