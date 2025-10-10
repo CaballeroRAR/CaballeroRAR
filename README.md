@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edgar | Data Science Beginner
+# 👋 Hi, I'm Edgar | Data Scienctist
 
 Completing the Data Science Bootcamp at TripleTen.  
 Interested in machine learning, exploratory data analysis, data visualization, and turning raw data into insights.  
