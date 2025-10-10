@@ -82,6 +82,6 @@ Analysis of customer behavior for two prepaid plans to compare usage and revenue
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/datacaballero/  
-- Email: arq_caballero@outlook.com
+- Email: caballero.data.scientist@gmail.com
 
 > “Data are not just numbers—they are the stories waiting to be told.”
