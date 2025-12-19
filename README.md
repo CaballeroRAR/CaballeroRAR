@@ -7,15 +7,15 @@ Based in México | Open to remote and on-site roles.
 ## Technical Toolkit
 
 ### Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-Medium-182625?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Medium-F2380F?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Medium-3D5A73?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Medium-28403D?style=flat&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Medium-455559?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Medium-F2380F?style=flat&logo=postgresql&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-Medium-2F3D40?style=flat&logo=scikitlearn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-Medium-182625?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Medium-3D5A73?style=flat&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Medium-455559?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Medium-2F3D40?style=flat&logo=powerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Medium-F2380F?style=flat&logo=powerbi&logoColor=white)
 
 ### Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Medium-011F26?style=flat&logo=matplotlib&logoColor=white)
@@ -32,46 +32,51 @@ Based in México | Open to remote and on-site roles.
 
 ---
 
-## Projects
+## [Projects](https://github.com/CaballeroRAR/ds_projects)
 
-### 1) Time Series Analysis & Forecasting
-End-to-end pipeline with datetime parsing, resampling, lag/rolling features, simple baselines, and train/validation split by time.  
-- Built calendar, lag, and rolling statistics.  
-- Evaluated with RMSE and R².  
-- Reviewed errors across time windows.
+### Machine Learning & Classification
+**[Titanic Survival Analysis](https://github.com/CaballeroRAR/ds_projects/tree/main/2_titanic_machine_learning-kaggle_titanic)**  
+Classification models using Random Forest, Gradient Boosting, LightGBM, Logistic Regression, and SVM. Hyperparameter tuning and model evaluation with cross-validation metrics (accuracy, precision, recall, F1, ROC-AUC).
 
-### 2) Auto Sales Analytics Dashboard
-Exploratory dashboard with a lightweight ETL and deployment.  
-- Tech Stack: Python, Pandas, Seaborn, Render  
-- Key Achievements:
-  - ETL for 50K+ sales records with clean transformations.  
-  - Interactive dashboard with API integration.  
-- Demo: https://test-render-1pj2.onrender.com/
+**[Gold Recovery Prediction](https://github.com/CaballeroRAR/ds_projects/tree/main/2_titanic_machine_learning-kaggle_titanic)**  
+Regression modeling for industrial process optimization. Feature engineering and end-to-end ML pipeline development.
 
-### 3) Megaline Cellphone Service Analysis
-Analysis of customer behavior for two prepaid plans to compare usage and revenue.  
-- Data Processing: cleaning and monthly aggregation.  
-- Usage Analysis: call durations, messages, and data consumption.  
-- Revenue: base fees and overage charges; plan comparison.
+### Data Analysis & Visualization
+**[Employee Salary Analysis](https://github.com/CaballeroRAR/ds_projects/tree/main/1_employee_salary_analysis-kaggle_salary)**  
+Exploratory data analysis of Kaggle salary dataset. Statistical analysis, data visualization with Matplotlib/Seaborn, and insights on compensation trends.
+
+### Time Series & Statistical Analysis
+**[Time Series Analysis](https://github.com/CaballeroRAR/ds_projects/tree/main/4_time_series_analysis-tripleten_bootcamp)**  
+Time series forecasting and trend analysis. Statistical modeling with Python, seasonal decomposition, and predictive analytics.
 
 ---
 
 ## Certifications
 
-- ETL Processing on Google Cloud using Dataflow and BigQuery  
+- **ETL Processing on Google Cloud using Dataflow and BigQuery** Google (2025)
   - Designed streaming and batch pipelines with Apache Beam on Dataflow.  
   - Implemented schema-aware ingestion and transformation; loaded curated datasets into partitioned BigQuery tables.  
   - Applied cost-optimization and reliability practices with autoscaling, windowing, and monitoring.
 
-- Completion Certificate: Python for Data Science, AI & Development  
-  - Core Python (data structures, control flow, functions, OOP) with hands-on labs in Jupyter.  
-  - Data work with NumPy and Pandas; web data access with REST APIs and web scraping.  
-  - Practical scripting and automation for data tasks.
+- **Data Scientist Bootcamp** – TripleTen (2025)  
+  - Intensive nine-month program covering Python, SQL, and data analysis methods.  
+  - Completed 12 real-world projects: ETL pipelines, machine learning modeling, statistical analysis, and data visualization.  
+  - Core skills: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, APIs, and Jupyter Notebook.
 
-- Completion Certificate: Data Science Methodology  
+- **Data Science Methodology** – IBM (2023)  
   - Framed business problems as data questions; defined success metrics and evaluation criteria.  
   - Collected, prepared, and modeled data through an iterative CRISP-DM-style workflow.  
   - Communicated results with clear assumptions and limitations.
+
+- **Python for Data Science, AI & Development** – IBM (2024)  
+  - Core Python programming: data structures, control flow, functions, and OOP.  
+  - Data manipulation with NumPy and Pandas; web data access with REST APIs and web scraping.  
+  - Practical scripting and automation for data tasks.
+
+- **Construction Project Management** – Columbia University (2022)  
+  - Project planning, coordination, and risk management methodologies.  
+  - Cross-functional team leadership and construction lifecycle oversight.
+
 
 ---
 
