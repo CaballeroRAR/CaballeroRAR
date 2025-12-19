@@ -13,19 +13,22 @@ Based in México | Open to remote and on-site roles.
 ![SQL](https://img.shields.io/badge/SQL-Medium-455559?style=flat&logo=postgresql&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-Medium-2F3D40?style=flat&logo=scikitlearn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-Medium-182625?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Medium-3D5A73?style=flat&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Medium-455559?style=flat&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Medium-2F3D40?style=flat&logo=powerbi&logoColor=white)
 
 ### Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Beginner-blueviolet?logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/Seaborn-Beginner-red?logo=seaborn)
-![PowerBI](https://img.shields.io/badge/Power_BI-Beginner-yellow?logo=powerbi)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Medium-011F26?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Medium-F2380F?style=flat&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-Medium-024959?style=flat&logo=powerbi&logoColor=white)
 
 ### Tools & Deployment
-![Git](https://img.shields.io/badge/Git/GitHub-Beginner-black?logo=git)
-![Render](https://img.shields.io/badge/Render-Deployments-46a2f1?logo=render)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-ETL-informational?logo=googlecloud)
-![BigQuery](https://img.shields.io/badge/BigQuery-Data_Warehouse-informational?logo=googlecloud)
-![Dataflow](https://img.shields.io/badge/Dataflow-Stream/Batch_ETL-informational?logo=googlecloud)
+![Git](https://img.shields.io/badge/Git/GitHub-Medium-182625?style=flat&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Medium-3D5A73?style=flat&logo=render&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Medium-28403D?style=flat&logo=jupyter&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Medium-455559?style=flat&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-Medium-2F3D40?style=flat&logo=googlecloud&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-Medium-182625?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
