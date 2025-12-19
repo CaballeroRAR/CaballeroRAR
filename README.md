@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Edgar | Data Scientist
+# Greetings, I'm Gabriel | Data Scientist
 
-Completing the Data Science Bootcamp at TripleTen.  
-Interested in machine learning, exploratory data analysis, data visualization, and turning raw data into insights.  
+Completed the Data Science Bootcamp at TripleTen.  
+Interested in machine learning, exploratory data analysis, data visualization, in FINANCE, PHARMACEUTICS and ECOMMERCE  
 Based in México | Open to remote and on-site roles.
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 ### Data Science & Analytics
 ![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python)
@@ -18,7 +18,6 @@ Based in México | Open to remote and on-site roles.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Beginner-blueviolet?logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Beginner-red?logo=seaborn)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Beginner-yellow?logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-Beginner-orange?logo=tableau)
 
 ### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git/GitHub-Beginner-black?logo=git)
