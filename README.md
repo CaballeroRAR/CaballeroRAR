@@ -7,12 +7,12 @@ Based in México | Open to remote and on-site roles.
 ## Technical Toolkit
 
 ### Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Beginner-orange?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Beginner-blue?logo=numpy)
-![SQL](https://img.shields.io/badge/SQL-Beginner-red?logo=postgresql)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-Beginner-yellow?logo=scikitlearn)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-Beginner-informational)
+![Python](https://img.shields.io/badge/Python-Medium-182625?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Medium-3D5A73?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Medium-28403D?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Medium-455559?style=flat&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-Medium-2F3D40?style=flat&logo=scikitlearn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Medium-182625?style=flat)
 
 ### Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Beginner-blueviolet?logo=matplotlib)
