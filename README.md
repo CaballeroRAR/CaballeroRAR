@@ -1,4 +1,4 @@
-# Greetings, I'm Gabriel | Data Scientist
+# Greetings, I'm Edgar | Data Scientist (worked 8 years as an Architect)
 
 Completed the Data Science Bootcamp at TripleTen.  
 Interested in machine learning, exploratory data analysis, data visualization, in FINANCE, PHARMACEUTICS and ECOMMERCE  
