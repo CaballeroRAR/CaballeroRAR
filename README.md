@@ -35,9 +35,6 @@ Based in México | Open to remote and on-site roles.
 ## [Projects](https://github.com/CaballeroRAR/ds_projects)
 
 ### Machine Learning & Classification
-**[Titanic Survival Analysis](https://github.com/CaballeroRAR/ds_projects/tree/main/2_titanic_machine_learning-kaggle_titanic)**  
-Classification models using Random Forest, Gradient Boosting, LightGBM, Logistic Regression, and SVM. Hyperparameter tuning and model evaluation with cross-validation metrics (accuracy, precision, recall, F1, ROC-AUC).
-
 **[Gold Recovery Prediction](https://github.com/CaballeroRAR/ds_projects/tree/main/2_titanic_machine_learning-kaggle_titanic)**  
 Regression modeling for industrial process optimization. Feature engineering and end-to-end ML pipeline development.
 
@@ -82,7 +79,7 @@ Time series forecasting and trend analysis. Statistical modeling with Python, se
 
 ## What I Bring
 - Willingness to learn: open to feedback and new tools.  
-- Problem-solving: breaks tasks into clear, testable steps.  
+- Problem-solving: breaks tasks into clear, testable, reusable steps.  
 - Communication: documents assumptions, decisions, and results.  
 
 ---
@@ -90,5 +87,6 @@ Time series forecasting and trend analysis. Statistical modeling with Python, se
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/datacaballero/  
 - Email: caballero.data.scientist@gmail.com
+- Web site: https://caballero-data-science.lovable.app
 
-> “Data are not just numbers—they are the stories waiting to be told.”
+> “Data represents untold narratives ready to provide valuable lessons.”
