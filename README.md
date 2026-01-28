@@ -64,7 +64,7 @@ Time series forecasting and trend analysis. Statistical modeling with Python, se
   - Completed 12 real-world projects: ETL pipelines, machine learning modeling, statistical analysis, and data visualization.  
   - Core skills: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, APIs, and Jupyter Notebook.
 
-- **Data Science Methodology** – IBM (2023)  
+- **Data Science Methodology CRISP-DM** – IBM (2023)  
   - Framed business problems as data questions; defined success metrics and evaluation criteria.  
   - Collected, prepared, and modeled data through an iterative CRISP-DM-style workflow.  
   - Communicated results with clear assumptions and limitations.
@@ -74,7 +74,7 @@ Time series forecasting and trend analysis. Statistical modeling with Python, se
   - Data manipulation with NumPy and Pandas; web data access with REST APIs and web scraping.  
   - Practical scripting and automation for data tasks.
 
-- **Construction Project Management** – Columbia University (2022)  
+- **Construction LEAN Project Management** – Columbia University (2022)  
   - Project planning, coordination, and risk management methodologies.  
   - Cross-functional team leadership and construction lifecycle oversight.
 
