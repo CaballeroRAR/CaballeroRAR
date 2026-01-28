@@ -32,11 +32,13 @@ Based in México | Open to remote and on-site roles.
 
 ---
 
-## [Projects](https://github.com/CaballeroRAR/ds_projects)
+## Projects
 
 ### Machine Learning & Classification
-**[Gold Recovery Prediction](https://github.com/CaballeroRAR/ds_projects/tree/main/2_titanic_machine_learning-kaggle_titanic)**  
+**[Gold Recovery Prediction](https://github.com/CaballeroRAR/ds_projects/tree/main/3_gold_recovery_machine_learning-tripleten_gold%20recovery)**  
 Regression modeling for industrial process optimization. Feature engineering and end-to-end ML pipeline development.
+**[Retail Customer Segmentation](https://github.com/CaballeroRAR/ds_projects_collabs)**
+KMeans clustering model for customer segmentation andto identify distinct customer groups based on recency, frequency, and monetary (RFM) patterns.
 
 ### Data Analysis & Visualization
 **[Employee Salary Analysis](https://github.com/CaballeroRAR/ds_projects/tree/main/1_employee_salary_analysis-kaggle_salary)**  
