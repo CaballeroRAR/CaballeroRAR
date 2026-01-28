@@ -37,6 +37,7 @@ Based in México | Open to remote and on-site roles.
 ### Machine Learning & Classification
 **[Gold Recovery Prediction](https://github.com/CaballeroRAR/ds_projects/tree/main/3_gold_recovery_machine_learning-tripleten_gold%20recovery)**  
 Regression modeling for industrial process optimization. Feature engineering and end-to-end ML pipeline development.
+
 **[Retail Customer Segmentation](https://github.com/CaballeroRAR/ds_projects_collabs)**
 KMeans clustering model for customer segmentation andto identify distinct customer groups based on recency, frequency, and monetary (RFM) patterns.
 
