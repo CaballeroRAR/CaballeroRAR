@@ -31,13 +31,22 @@ Based in México | Open to remote and on-site roles.
 
 ## Projects
 
-### Featured: Cloud-Native Customer Segmentation
+### Featured: Data Engineering & Cloud-Native Pipelines
 **[ML Pipeline Migration to BigQuery](https://github.com/CaballeroRAR/ds_projects/tree/main/1_ml-pipeline-migration-bigquery)**
 Production-scalable migration of customer segmentation workflows to **Google Cloud BigQuery** using a **Medallion Architecture**.
 - **Impact:** Detected significant segment drift between 2009 and 2011; achieved stable clustering separation verified via PCA.
 - **Stack:** GCP (BigQuery ML), SQL ETL, Python (Loguru), Dimensionality Reduction (PCA).
 
-### Machine Learning & Optimization
+### Machine Learning, NLP & Optimization
+**[The Astroturfing Report: Analyzing Authenticity in Top Comments](https://github.com/CaballeroRAR/ds_projects_collabs/tree/main/astroturfing_report)**
+Forensic Data Science investigation quantifying the authenticity of public discourse on social media using NLP.
+- **Impact:** Combined metadata heuristics and BERT/UMAP to segment organic sentiment from bot-driven "astroturfing" campaigns.
+- **Stack:** Python, GCP, BigQuery, Transformers (BERT, XLM-RoBERTa), HDBSCAN, UMAP.
+
+**[Retail Customer Segmentation](https://github.com/CaballeroRAR/ds_projects_collabs/tree/main/retail_customer_segmentation)**
+End-to-end data engineering and unsupervised learning project focused on transactional data.
+- **Insights:** Custom Python pipeline cleaning with K-Means clustering to identify distinct customer groups based on RFM patterns.
+
 **[Gold Recovery Prediction](https://github.com/CaballeroRAR/ds_projects/tree/main/4_gold-recovery-industrial-optimization)**
 Optimizing flotation efficiency in mining operations through regression modeling.
 - **Results:** Achieved lowest sMAPE using ensemble methods; identified key reagent drivers.
